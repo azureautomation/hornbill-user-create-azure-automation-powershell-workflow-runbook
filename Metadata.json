@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 5160,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-user-create-azure-automation-powershell-workflow-runbook/master/Hornbill_UserCreate_Workflow.ps1",
+    "DownloadCount": 749,
+    "Id": "Hornbill-User-Create-Azure-734dfeb0",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 515,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow Runbook to create a new user account on a Hornbill Instance",
+    "Title": "Hornbill User Create - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-user-create-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
